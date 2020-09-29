@@ -1,4 +1,4 @@
-soap-service
+Repository Init Content
 =======================
 
-Test project. Development in progress.
+Your project description here.
